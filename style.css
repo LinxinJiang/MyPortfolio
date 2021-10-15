@@ -1,0 +1,15 @@
+.container-home{
+    position: relative;
+}
+
+.effect-wrap .effect {
+    position: absolute;
+    z-index: -1;
+}
+
+.effect {
+    width: 30 px;
+    height: 30 px;
+    border: 4 pxs solid #8a49ff;
+
+}
